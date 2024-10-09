@@ -1,4 +1,4 @@
 # myProfile
 
-####### HELLO, I'M SAUNG
+HELLO, I'M SAUNG
 
